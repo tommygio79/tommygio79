@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Passionate about books on physics, astronomy, social sciences, nature, philosophy, and critical thinking — from Harari to Hawking.</p>
+<p align="left">Passionate about books on Physics, AI, Astronomy, Social Sciences, History, Nature, Philosophy, and Critical Thinking — from Harari to Hawking.</p>
 
 ###
 
